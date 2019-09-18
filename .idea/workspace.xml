@@ -1,100 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f123206-06c2-4545-acaf-f0b3e3621e8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/computer-vision.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/augmented_reality/augmented_reality.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/augmented_reality/facial_landmarks.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/augmented_reality/shape_predictor_68_face_landmarks.dat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basics/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basics/bgr_channels.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basics/drawing.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basics/grayscaling.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basics/histograms.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basics/hsv.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basics/read_write_display_imgs.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/haarcascades/haarcascade_car.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/haarcascades/haarcascade_eye.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/haarcascades/haarcascade_frontalface_default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/haarcascades/haarcascade_fullbody.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_manipulation/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_manipulation/adaptive_thresholding.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_manipulation/affine_transform.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_manipulation/arithmetic_operations.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_manipulation/bitwise_operations.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_manipulation/canny_stream.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_manipulation/convolutions.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_manipulation/cropping.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_manipulation/edge_detection.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_manipulation/image_pyramids.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_manipulation/morphology.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_manipulation/perspective_transform.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_manipulation/rotations.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_manipulation/scaling_resizing_interpolations.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_manipulation/sharpening.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_manipulation/thresholding.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_manipulation/translations.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_segmentation/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_segmentation/approximating_contours.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_segmentation/blob_detection.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_segmentation/circle_detection.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_segmentation/convex_hull.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_segmentation/counting_circles.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_segmentation/find_contours.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_segmentation/identifying_contours_by_shape.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_segmentation/line_detection.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_segmentation/matching_shapes.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image_segmentation/sorting_contours.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/blobs.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/book.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/bottlecaps.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/cars.avi" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/chess.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/credit_card_01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/credit_card_02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/credit_card_03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/digits.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/elephant.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/ex2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/gradient.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/hand.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/house.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/input.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/obama.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/ocr_a_reference.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/opencv_inv.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/scan.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/shapes1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/shapes2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/shapes3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/shapes4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/star.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/sudoku.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/sunflowers.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/trump.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/waldo1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/waldo2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/imgs/walking.avi" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/object_detection/car_detection.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/object_detection/face_detection_live.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/object_detection/face_eye_detection.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/object_detection/finding_corners.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/object_detection/finding_waldo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/object_detection/histogram_oriented_gradients.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/object_detection/pedestrian_detection.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/object_tracking/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/object_tracking/background_subtraction.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/object_tracking/camshift.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/object_tracking/filtering_by_color.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/object_tracking/foreground_subtraction.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/object_tracking/meanshift.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/simple_machine_learning/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/simple_machine_learning/credit_card_reader.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/simple_machine_learning/digit_recognition.py" />
-    </list>
+    <list default="true" id="3f123206-06c2-4545-acaf-f0b3e3621e8c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -322,8 +229,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26537216" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13615733" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26537216" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13615733" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
